@@ -12,7 +12,7 @@ Os dados utilizados foram criados de forma aleatória e encontram-se separados p
 
 ## OBJETIVO
 
-Retirar informações através de gráficos e tabelas para possível tomada de decisão.
+Retirar informações através de gráficos e tabelas para possível tomada de decisão. Responder possíveis dúvidas conforme os dados coletados para análise.
 
 
 
@@ -40,3 +40,9 @@ Minha motivação para o desenvolvimento desse projeto foi com objetivo de desen
 Agradeço por visualizar meu projeto e caso queira entrar em contato para elogiar, dar sugestões ou até mesmo dar críticas construtivas eu estou disponível no canal abaixo:
 
 - LinkedIn: https://www.linkedin.com/in/diego-soares-de-melo/
+
+
+
+# OBSERVAÇÕES
+
+Deixei disponível um vídeo em MP4 apresentando meus dashboards em MS Excel e MS Power B.I
