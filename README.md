@@ -12,7 +12,7 @@ Os dados utilizados foram criados de forma aleatória e encontram-se separados p
 
 ## OBJETIVO
 
-Retirar informações através de gráficos e tabelas para possível tomada de decisão. Responder possíveis dúvidas conforme os dados coletados para análise.
+Coletar informações relevantes dos dados e gerar informação para tomada de decisão através de gráficos e tabelas. Sendo assim, responder possíveis dúvidas conforme os dados coletados para análise.
 
 
 
@@ -28,10 +28,10 @@ Para o desenvolvimento desse projeto foi utilizado as seguintes ferramentas:
 
 Minha motivação para o desenvolvimento desse projeto foi com objetivo de desenvolver:
 
-- habilidade nos frameworks Pandas, Matplotlib e Seaborn;
+- Habilidade nos frameworks Pandas, Matplotlib e Seaborn;
 - Treinar o uso de exportação de dados limpos para o MS Excel e gerar dashboard interativos;
 - Desenvolver meu primeiro dashboard no MS Power B.I;
-- Criar meu primeiro projeto aperfeiçoar meus estudos em Data Science (Ciência de Dados)
+- Criar meu primeiro projeto e aperfeiçoar meus estudos em Data Science (Ciência de Dados)
 
 
 
@@ -45,4 +45,5 @@ Agradeço por visualizar meu projeto e caso queira entrar em contato para elogia
 
 # OBSERVAÇÕES
 
-Deixei disponível um vídeo em MP4 apresentando meus dashboards em MS Excel e MS Power B.I
+- Deixei disponível um vídeo em MP4 apresentando meus dashboards em MS Excel e MS Power B.I;
+- Também deixei disponível um PDF com todo o passo de elaboração do projeto;
